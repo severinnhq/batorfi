@@ -6,7 +6,6 @@ import { easeOut } from 'framer-motion/dom';
 import Image from 'next/image';
 import LandingHeader from '@/components/en/landingheader';
 
-import WhyLovjaSection from "@/components/en/WhyLovjaSection";
 
 
 
@@ -562,7 +561,7 @@ export default function DigitalMarketingQuiz() {
             viewport={viewportOptions}
             variants={fadeUp}
           >
-          <WhyLovjaSection />
+          
 
           </motion.div>
            <ReviewsGallery />
