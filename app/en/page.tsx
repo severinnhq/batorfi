@@ -9,7 +9,7 @@ import LandingHeader from '@/components/en/landingheader';
 
 
 
-import ReviewsGallery from "@/components/en/ReviewsGallery";
+
 
 import FAQ from "@/components/en/faq";
 import Footer from "@/components/en/Footer";
@@ -564,7 +564,7 @@ export default function DigitalMarketingQuiz() {
           
 
           </motion.div>
-           <ReviewsGallery />
+
 
         </div>
 
