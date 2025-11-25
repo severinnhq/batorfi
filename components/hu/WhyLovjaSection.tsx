@@ -20,7 +20,8 @@ export default function WhyLovjaSection() {
           Miért <span className="text-yellow-400">elengedhetetlen</span> a Lovja?
         </motion.h2>
 
-        <div className="grid md:grid-cols-2 gap-12">
+        <div className="grid lg:grid-cols-2 gap-12">
+
           {/* ✅ WHY YOU NEED LOVJA */}
           <motion.div
             initial={{ opacity: 0, x: -50 }}
