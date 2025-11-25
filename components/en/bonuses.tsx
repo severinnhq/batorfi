@@ -1,6 +1,6 @@
 import React from "react";
 
-// SVG check icon component
+// SVG check icon com ponent
 const CheckIcon = () => (
   <svg
     className="w-6 h-6 text-green-500 mr-2 flex-shrink-0"
